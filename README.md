@@ -1,1 +1,3 @@
-# Curso-Git-SC
+# Curso-Git-SC Git/Versionamento
+
+# Salvando alterações
