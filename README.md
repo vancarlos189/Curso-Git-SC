@@ -3,5 +3,5 @@
 # Salvando alterações
 
 ## Nova linha
-
-*Testando comando restore
+* Testando comando restore
+* Testando novo comando pull
