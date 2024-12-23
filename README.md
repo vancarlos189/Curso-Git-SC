@@ -1,7 +1,2 @@
-# Curso-Git-SC Git/Versionamento
+# Pipeline ETL com Spark para Processamento de Logs de um E-commerce
 
-# Salvando alterações
-
-* Testando comando restore
-* Testando novo comando pull
-* Testando novo comando fetch
